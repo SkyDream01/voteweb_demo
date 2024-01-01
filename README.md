@@ -36,7 +36,7 @@ Open the `index.php` file in a web server.
 
 - Anonymous voting
 - Support for resetting options
-- IP address restriction (1 vote per minute)
+
 
 ## Directory Structure
 
